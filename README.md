@@ -1,5 +1,6 @@
 ### Hi there 👋 welcome
- 
+- 🔭 I’m currently working on beijing...
+- 🌱 I’m currently learning vue,js,css...
 <!--
 **glary/glary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
